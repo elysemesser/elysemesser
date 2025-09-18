@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:elyseflaugher@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elyseflaugher%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/elysemesser" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elysemesser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/emflaugh" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-elysemesser-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/elysemesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-elysemesser-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,6 +59,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
 </p>
 
+**AI / Data Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenRouter-FF4A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Crush%20%2B%20Victoria-2C2C32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Validation-228B22?style=for-the-badge"/>
+</p>
+
 **Design Systems & Tools**
 
 <p>
@@ -69,14 +79,17 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"/>
 </p>
 
-**Practices & Platform**
+**Practices & Platforms**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Accessibility-000000?logo=accessible-icon&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developer%20UX-663399?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Integrity-444444?style=for-the-badge"/>
 </p>
+
 
 ---
 
@@ -92,5 +105,5 @@
 <p align="center">
   <a href="mailto:elyseflaugher@gmail.com">elyseflaugher@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/elysemesser">LinkedIn</a> ·
-  <a href="https://github.com/emflaugh">GitHub</a>
+  <a href="https://github.com/elysemesser">GitHub</a>
 </p>
