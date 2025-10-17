@@ -107,3 +107,5 @@
   <a href="https://www.linkedin.com/in/elysemesser">LinkedIn</a> ·
   <a href="https://github.com/elysemesser">GitHub</a>
 </p>
+
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=elysemesser&color=ff69b4 alt=elysemesser/> </p>
