@@ -7,7 +7,6 @@
 <h3 align="center">AI Engineer • Frontend Specialist</h3>
 
 <p align="center">
-  <a href="mailto:elyseflaugher@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elyseflaugher%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/elysemesser" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elysemesser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/elysemesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-elysemesser-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -103,7 +102,6 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:elyseflaugher@gmail.com">elyseflaugher@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/elysemesser">LinkedIn</a> ·
   <a href="https://github.com/elysemesser">GitHub</a>
 </p>
