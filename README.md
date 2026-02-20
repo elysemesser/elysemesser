@@ -10,7 +10,7 @@
 
 ### ✨ About Me
 
-*   🚀 As an **AI Engineer** at **Elcano**, I build autonomous agents that automate complex workflows in the programmatic advertising space. My focus is on designing and implementing the API integrations (MCPs ) that connect our AI to SSPs like Index Exchange, OpenX, and Magnite.
+*   🚀 As an **AI Engineer** at **Elcano**, I build autonomous agents that automate complex workflows in the programmatic advertising space. My focus is on designing and implementing the API integrations (MCPs) that connect our AI to SSPs.
 *   🎨 With 7+ years as a **Senior Frontend Developer**, I specialize in turning complex systems and dense data into simple, intuitive, and usable user experiences.
 *   🎯 My core passion is bridging the gap between powerful backend systems and the humans who use them. Whether it's through a React UI or an AI agent, the goal is the same: make the complex feel simple.
 *   🌱 Currently focused on: expanding our agent's capabilities, deepening my knowledge of the AdTech ecosystem, and refining the developer experience of our internal tools.
@@ -20,7 +20,7 @@
 
 ### 🚀 Selected Work & Wins
 
-*   **AI Agent for AdTech (Cutlass Project):** Architected and implemented multiple MCP (Model Context Protocol) servers in Python to connect our Go-based AI agent to third-party SSP APIs. This enables automated, cross-platform deal creation and management.
+*   **AI Agent for AdTech (Cutlass Project):** Architected and implemented multiple MCP (Model Context Protocol) servers in Python to connect our Go-based AI agent to third-party SSP APIs. This enables automated, cross-platform deal creation and management across platforms like Index Exchange, OpenX, Magnite, Xandr, Media.net, PubMatic, and Adverity.
 *   **Secure React Native App:** Led frontend development for a secure mobile application for a government client, focusing on cross-platform UX, strict compliance, and complex data integrations.
 *   **E-commerce Design System:** Built and maintained core components for a major e-commerce site using Next.js, TypeScript, and MUI, improving consistency and development velocity.
 *   **Modern SharePoint UIs:** Engineered performant and accessible user interfaces for SharePoint environments using React, TypeScript, and Storybook.
@@ -63,13 +63,16 @@
   <img src="https://img.shields.io/badge/OpenRouter-FF4A00?style=for-the-badge"/>
 </p>
 
-**Platforms & APIs**
+**Platforms & APIs (MCPs)**
 
 <p>
   <img src="https://img.shields.io/badge/Index%20Exchange-00A99D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenX-00AEEF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Magnite-F15A29?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Xandr-FF6900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Media.net-2C2C32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PubMatic-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adverity-228B22?style=for-the-badge"/>
 </p>
 
 **Design & Tools**
@@ -91,7 +94,7 @@
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elysemesser">LinkedIn</a> ·
