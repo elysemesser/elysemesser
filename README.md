@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Elyse%20Messer&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Senior%20AI%20Engineer%20%C2%B7%20Elcano&descSize=24&descAlignY=78" width="100%" alt="Elyse Messer — Senior AI Engineer at Elcano" />
+  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior AI Engineer at Elcano" />
 </div>
 
 <p align="center">
@@ -32,42 +32,13 @@ Developer     Developer            Elcano               Elcano
 
 ---
 
-## 🚀 What I've Been Building Lately
+## 🚀 What I'm Building
 
-### 🗡️ Cutlass — AI Agent for Programmatic AdTech
-The autonomous agent at the heart of Elcano's platform: a **Go-based AI agent** driving a fleet of **Python MCP (Model Context Protocol) servers** that I architected and maintain. It creates, targets, and reports on PMP deals across **Index Exchange, OpenX, Magnite, Xandr, TripleLift, Media.net, PubMatic, and Adverity** — absorbing each SSP's quirks (enum casing, exclusive date ranges, inventory-targeting models, regulatory policy flags) so traders never have to.
-
-### 📋 Manifest — Deal Intake, Audited & Agent-Ready
-A full-stack platform (**Go + Chi · React 18 + Vite + TypeScript**) that replaces manual deal intake with a structured, SSP-aware form, a **client-aware audit engine**, and a prompt generator that emits **MCP-tool-call-ready YAML** — so the agent gets it right on the first try, every try. Includes a conversational **deal-chat** interface for editing deals in plain English.
-
-### 🔬 Elcano Lens — Resilient LLM Classification
-An LLM-powered classification pipeline built on **OpenRouter** with **cross-provider model fallback chains** — hardened response parsing, provider-error detection, and automatic failover so one flaky model never takes down the pipeline.
-
-### 🔐 Unified Auth — One Login for the Whole Suite
-A central **magic-link auth service** minting **Ed25519-signed**, domain-wide session cookies, with two integration tiers (edge `forward_auth` and native in-app verification with scoped membership). I wired it across the product suite — stateless CSRF checks, fail-closed verification, clean logout semantics.
-
-### 🚩 Flag — Design System at Scale
-Elcano's design system: shared tokens, components, and **bulletproof HTML email templates** (dark-mode QA harness, fixtures, template guardrails). I led the rollout that brought every app in the suite — login flows, dashboards, iconography — into one coherent, accessible visual language.
-
-<details>
-  <summary><b>🗺️ How it all fits together</b></summary>
-
-```mermaid
-flowchart LR
-    T(["🧑‍💼 Trader brief"]) --> M["📋 Manifest<br/>intake · audit · prompt gen"]
-    M -- "MCP-ready YAML" --> A["🗡️ Cutlass Agent<br/>(Go)"]
-    A --> S{{"🐍 Python MCP servers"}}
-    S --> IX["Index Exchange"]
-    S --> OX["OpenX"]
-    S --> XA["Xandr"]
-    S --> TL["TripleLift"]
-    S --> PM["PubMatic"]
-    S --> MN["Media.net"]
-    AU["🔐 Unified Auth"] -.protects.-> M
-    FL["🚩 Flag Design System"] -.styles.-> M
-```
-
-</details>
+- 🤖 **Autonomous AI agents** that run real programmatic-advertising workflows end to end — from a plain-English brief to live, correctly-configured deals across the major SSPs.
+- 🔌 **MCP (Model Context Protocol) servers** in Python that give agents reliable, well-guarded access to third-party APIs — absorbing each platform's quirks so the agent (and the humans behind it) never has to.
+- 🧭 **Full-stack internal platforms** (Go · React · TypeScript) that translate human intent into validated, agent-ready instructions — with auditing and a human confidently in the loop.
+- 🛡️ **Resilient LLM infrastructure** — multi-provider model routing, fallback chains, and hardened response handling, so one flaky model never takes down a pipeline.
+- 🎨 **A company-wide design system** — shared tokens, accessible components, and dark-mode-proof HTML email, bringing an entire product suite into one coherent visual language.
 
 <details>
   <summary><b>💼 Earlier Experience</b></summary>
@@ -153,5 +124,5 @@ flowchart LR
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
