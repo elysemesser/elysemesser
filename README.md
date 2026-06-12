@@ -22,14 +22,6 @@ I started as a **frontend developer in 2017**, obsessing over pixels, accessibil
 
 Today I'm a **Senior AI Engineer at Elcano**, where I architect the full pipeline that turns a plain-English deal brief into live programmatic deals across the AdTech ecosystem — autonomous agents, MCP servers, audit engines, and the human-facing tools that keep people confidently in the loop.
 
-```text
-2017 ──────── 2019 ─────────────── 2024 ─────────────── 2026
-Frontend      Senior Frontend      AI Engineer          Senior AI Engineer
-Developer     Developer            Elcano               Elcano
-              Rightpoint
-└── pixels ──→ design systems ──→ AI agents ──→ agentic platforms ──┘
-```
-
 ---
 
 ## 🚀 What I'm Building
