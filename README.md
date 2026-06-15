@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior AI Engineer at Elcano" />
+  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior Engineer at Elcano" />
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I started as a **frontend developer in 2017**, obsessing over pixels, accessibility, and the feel of a well-crafted interface. That obsession evolved: from building UIs that make dense data usable, to building **AI agents that do the dense work themselves** — and designing the interfaces, protocols, and guardrails that make them trustworthy.
 
-Today I'm a **Senior AI Engineer at Elcano**, where I architect the full pipeline that turns a plain-English deal brief into live programmatic deals across the AdTech ecosystem — autonomous agents, MCP servers, audit engines, and the human-facing tools that keep people confidently in the loop.
+Today I'm a **Senior Engineer at Elcano**, where I architect the full pipeline that turns a plain-English deal brief into live programmatic deals across the AdTech ecosystem — autonomous agents, MCP servers, audit engines, and the human-facing tools that keep people confidently in the loop.
 
 ---
 
