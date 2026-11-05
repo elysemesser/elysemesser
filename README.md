@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior Engineer at Elcano. Solutions engineer, connector queen, front-end and design at heart." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <img src="assets/header-light.svg" width="100%" alt="Elyse Messer — Senior Engineer at Elcano. Solutions engineer, connector queen, front-end and design at heart." />
+  </picture>
 </p>
 
 <p align="center">
@@ -9,7 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami — Elyse Messer, senior engineer and solutions engineer; connector queen; front-end and design at heart. Now: Manifest, an AI deal platform I designed and built end to end; MCP servers that let agents work safely on 9 SSPs; agent approval UX in Fleet and LLM classification in Lens." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+    <img src="assets/terminal-light.svg" width="100%" alt="Terminal: whoami — Elyse Messer, senior engineer and solutions engineer; connector queen; front-end and design at heart. Now: Manifest, an AI deal platform I designed and built end to end; MCP servers that let agents work safely on 9 SSPs; agent approval UX in Fleet and LLM classification in Lens." />
+  </picture>
 </p>
 
 ## ✨ About me
