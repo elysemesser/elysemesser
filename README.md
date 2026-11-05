@@ -1,120 +1,136 @@
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior Engineer at Elcano" />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=640&lines=Building+AI+agents+for+programmatic+AdTech;MCP+servers+%C2%B7+agentic+workflows+%C2%B7+design+systems;From+pixels+(2017)+to+autonomous+agents+(2026);Complex+%E2%89%A0+complicated" alt="Typing animation" />
+  <img src="assets/header.svg" width="100%" alt="Elyse Messer — Senior Engineer at Elcano. Solutions engineer, connector queen, front-end and design at heart." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elysemesser" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elysemesser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/elysemesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-elysemesser-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=elysemesser&color=ff69b4&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/elysemesser"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elysemesser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/elysemesser"><img alt="GitHub followers" src="https://img.shields.io/github/followers/elysemesser?style=for-the-badge&logo=github&label=Follow&color=181717" /></a>
+  <a href="https://github.com/elysemesser"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=elysemesser&color=3A7BD5&style=for-the-badge&label=VIEWS" /></a>
 </p>
-
----
-
-## ✨ About Me
-
-> **Complex ≠ complicated.**
-
-I started as a **frontend developer in 2017**, obsessing over pixels, accessibility, and the feel of a well-crafted interface. That obsession evolved: from building UIs that make dense data usable, to building **AI agents that do the dense work themselves** — and designing the interfaces, protocols, and guardrails that make them trustworthy.
-
-Today I'm a **Senior Engineer at Elcano**, where I architect the full pipeline that turns a plain-English deal brief into live programmatic deals across the AdTech ecosystem — autonomous agents, MCP servers, audit engines, and the human-facing tools that keep people confidently in the loop.
-
----
-
-## 🚀 What I'm Building
-
-- 🤖 **Autonomous AI agents** that run real programmatic-advertising workflows end to end — from a plain-English brief to live, correctly-configured deals across the major SSPs.
-- 🔌 **MCP (Model Context Protocol) servers** in Python that give agents reliable, well-guarded access to third-party APIs — absorbing each platform's quirks so the agent (and the humans behind it) never has to.
-- 🧭 **Full-stack internal platforms** (Go · React · TypeScript) that translate human intent into validated, agent-ready instructions — with auditing and a human confidently in the loop.
-- 🛡️ **Resilient LLM infrastructure** — multi-provider model routing, fallback chains, and hardened response handling, so one flaky model never takes down a pipeline.
-- 🎨 **A company-wide design system** — shared tokens, accessible components, and dark-mode-proof HTML email, bringing an entire product suite into one coherent visual language.
-
-<details>
-  <summary><b>💼 Earlier Experience</b></summary>
-  <ul>
-    <li><b>Rightpoint</b> — Senior Frontend Developer (2019 → 2024): secure React Native app for a government client; e-commerce design system (Next.js, TypeScript, MUI); modern SharePoint UIs (React, Storybook)</li>
-    <li><b>Bread Factory Studios</b> — Frontend Developer (2017 → 2019)</li>
-    <li><b>LevelEleven</b> — Frontend UI/UX (2017 → 2019)</li>
-  </ul>
-</details>
-
----
-
-## 🧰 Tech Stack
-
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chi%20Router-00ADD8?logo=go&logoColor=fff&style=for-the-badge"/>
-</p>
-
-### AI & Automation
-<p>
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Tool%20Calling-F5A623?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenRouter-FF4A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multi--Model%20Fallbacks-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YAML%20Protocol%20Design-CB171E?logo=yaml&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/httpx-000000?logo=python&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pytest-0A9B70?logo=pytest&logoColor=fff&style=for-the-badge"/>
-</p>
-
-### Platforms & APIs (MCPs)
-<p>
-  <img src="https://img.shields.io/badge/Index%20Exchange-00A99D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenX-00AEEF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Magnite-F15A29?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Xandr-FF6900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TripleLift-1B9AF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Media.net-2C2C32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PubMatic-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Adverity-228B22?style=for-the-badge"/>
-</p>
-
-### Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Design%20Systems-FF4785?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20Tokens-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML%20Email-EA580C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Accessibility-000000?logo=accessible-icon&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=fff&style=for-the-badge"/>
-</p>
-
----
-
-## 🧭 Values & Interests
-
-- 🎯 Bridging powerful backend systems and the humans who use them — whether through a React UI or an AI agent, the goal is the same: **make the complex feel simple**.
-- ✨ Creating tech that feels **beautiful, effortless, trustworthy, and human**.
-- 🌿 Off the clock: hiking 🥾, skiing ⛷️, travel ✈️, photography 📸, organic cooking 👩🏻‍🍳, board games 🎲, interior design 🕯️, painting 🎨 & crafts 🧶.
-
----
-
-<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elysemesser">LinkedIn</a> ·
-  <a href="https://github.com/elysemesser">GitHub</a>
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami — Elyse Messer, senior engineer and solutions engineer; connector queen; front-end and design at heart. Now: Manifest, the deal platform I architected and built solo; MCP servers that let agents work safely on 9 SSPs; agent approval UX in Fleet and LLM classification in Lens." />
 </p>
 
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
-</div>
+## ✨ About me
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <img src="assets/about-light.svg" width="100%" alt="About me. Motto: complex ≠ complicated. I came to code from marketing and design. I started dabbling at RedCurrent, an events app, and became a front-end developer in 2017, obsessing over pixels, accessibility and the feel of a well-made interface. That obsession moved up the stack. First I built UIs that make dense data usable. Now I build AI agents that do the dense work themselves, and the interfaces that make people trust them. I'm a Senior Engineer at Elcano and the creator and architect of Manifest, an AI deal platform that turns a plain-English brief into live programmatic ad deals. I also build the agent approval experience in Fleet and the LLM classification pipeline in Lens. Around the team I'm the connector queen: I build the MCP servers that let our agents work safely across 9 SSPs." />
+</picture>
+</p>
+
+## 📈 2026 in numbers
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <img src="assets/stats-light.svg" width="100%" alt="2026 in numbers: 1,500+ pull requests merged, 5,000+ commits, 9 SSPs connected through MCP servers, 20 repositories shipped to." />
+</picture>
+</p>
+
+<p><sub>Counted from git history across public and private repositories, including a retired one that GitHub no longer shows on my graph.</sub></p>
+
+## 🧭 What I'm building
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg" />
+  <img src="assets/pipeline-light.svg" width="100%" alt="Manifest — how a brief becomes a live deal: Brief (plain English) → Agent (plans the deal) → Human (reviews and approves) → MCP layer (guards every call) → 9 SSPs (create and update) → Read-back (verifies on-platform)." />
+</picture>
+</p>
+
+- ⚓ **Manifest, an AI deal platform I architected and built solo.** Traders describe a deal in plain English; an agent plans it, a person approves it, and it goes live on every SSP the brief names, then gets edited, paused or cloned the same way. It runs on MCP servers I built for 9 SSPs.
+- 🔍 **Audit engines.** Deep audits compare what was asked for with what is actually live, and catch drift before anyone else does.
+- 🪪 **Human-in-the-loop UX in Fleet.** Readable approval cards, one card per turn, live progress while a call runs, retry on failure, and the agent picking up where it left off once you approve.
+- 🧩 **Self-serve tools.** Internal tools the whole team can edit, and capability docs generated from code so they can't drift from what the system does.
+- 🔎 **LLM classification in Lens.** Websites, apps and CTV channels sorted into quality tiers, with a cross-provider model fallback chain that retries instead of guessing.
+- 🎨 **Flag.** The company design system I created: tokens, themes, icons and components behind every Elcano product.
+
+## 🛠️ Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚓ Manifest</h3>
+      <p><code>creator</code> · <code>architect &amp; engineer</code> · private</p>
+      <p><b>An AI deal platform for programmatic advertising.</b> I designed, architected and built it on my own, starting in April 2026, with <b>1,100+ commits</b> so far. It takes a deal from a plain-English brief all the way to live: audit → agent plan → human approval → booking → read-back verification → deal sheets. It also has a chat that can book and edit deals, and deep audits that catch drift.</p>
+      <p>Underneath are the MCP servers I built for <b>9 SSPs</b>, with full create and update on each.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/ElcanoTek/flag">Flag</a></h3>
+      <p><code>creator</code> · open source · <a href="https://flag.elcanotek.com/">live preview ↗</a></p>
+      <p>The company design system: tokens in CSS and JSON kept in sync by CI, WCAG AA contrast checked in both themes, a light/dark theme contract, icons, component specs and an email-safe report template.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Go · React · TypeScript · Python · MCP</sub></td>
+    <td valign="top"><sub>CSS · design tokens · accessibility · theming</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ElcanoTek/fleet">Fleet</a></h3>
+      <p><code>contributor</code> · open source</p>
+      <p>A general-purpose agent fleet you run yourself: any model, in a sandbox, on a budget. I built its <b>approval experience</b>, the part that keeps a person in charge when an agent wants to do something that matters.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/ElcanoTek/lens">Lens</a></h3>
+      <p><code>co-builder</code> · open source</p>
+      <p>Classifies websites, apps and CTV channels into quality tiers with IAB content categories. Sites climb an escalating crawl ladder only as far as they need to, then an LLM decides. I built the <b>multi-provider model fallback chain</b>, hardened response parsing so a cut-off answer is retried instead of guessed, spreadsheet uploads, and the move onto the design system.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Go · TypeScript · MCP · agent UX</sub></td>
+    <td valign="top"><sub>Python · LLMs · OpenRouter · Firecrawl · web crawling</sub></td>
+  </tr>
+</table>
+
+## 🧰 Toolbox
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="100%" alt="Tech stack. Front end: React, TypeScript, Next.js, React Native, Redux, Vite, Gatsby, Vue, Sass, GraphQL, Storybook, MUI, Contentful, Figma, design tokens, WCAG AA, HTML email. Back end: Go, chi, Python, httpx, pytest, PostgreSQL, REST and OAuth APIs. AI and agents: Model Context Protocol, tool calling, agentic workflows, multi-model routing, OpenRouter, Claude Code, protocol design. Ad tech: Index Exchange, Magnite, PubMatic, OpenX, Xandr, TripleLift, Nexxen, Equativ, Media.net, Adverity. Shipping: Docker, Linux, cloud infrastructure, CI/CD, GitHub Actions, Git, browser automation." />
+</picture>
+</p>
+
+## ⛵ The voyage
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/voyage-dark.svg" />
+  <img src="assets/voyage-light.svg" width="100%" alt="The voyage so far: 2014, RedCurrent, first lines of code (Java, MongoDB, analytics); 2017, LevelEleven, front-end developer, UI/UX (React, Redux, Salesforce); 2019, Rightpoint, senior front-end developer; 2024, Elcano, AI engineer; 2026, senior engineer building Manifest, MCP servers and agent UX." />
+</picture>
+</p>
+
+## 💼 Experience
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
+  <img src="assets/experience-light.svg" width="100%" alt="Experience. 2024 to now: Elcano, Senior and Solutions Engineer, previously AI Engineer — architected and built Manifest solo, taking a plain-English brief to live deals on 9 SSPs; MCP servers that let agents work safely on every SSP; agent approval UX in Fleet and the model fallback chain in Lens; created Flag, the company design system. 2019 to 2024: Rightpoint, Senior Front-end Developer — secure React Native app for a government client; e-commerce design system in Next.js, TypeScript, AEM and MUI; immersive 3D world in React and Pano2VR driven by Contentful; SharePoint UIs and design systems; styles engineer on Unqork. 2017 to 2019: LevelEleven, Front-end Developer, UI/UX — Salesforce front ends in React, Redux and Apex; AppExchange releases and customer demos; QA, hiring and training. 2017 to 2019: Bread Factory Studios, Front-end Developer — client-facing scoping, personas and wireframes; React and Gatsby front ends. 2014 to 2017: RedCurrent, Content Manager, where I started coding — an events app covering 5 US cities; Java scrapers filling its MongoDB events database; content tooling; analytics, social and interns. 2014 to 2015: Offline Publishing, Marketing and Design Coordinator — a digital magazine that reached number 4 in the iOS Newsstand. Education: Grand Circus bootcamp, 2017; B.S. Marketing, Oakland University, 2014." />
+</picture>
+</p>
+
+## 🌿 Off the clock
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hobbies-dark.svg" />
+  <img src="assets/hobbies-light.svg" width="100%" alt="Off the clock: hiking, skiing, travel, photography, organic cooking, board games, interior design, painting and crafts." />
+</picture>
+</p>
+
+<p align="center">
+  <b>Let's build something beautiful, effortless and trustworthy.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elysemesser"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/elysemesser?tab=followers"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/elysemesser?style=for-the-badge&logo=github&label=Follow%20on%20GitHub&color=181717" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Complex ≠ complicated. Thanks for sailing by." />
+</p>
