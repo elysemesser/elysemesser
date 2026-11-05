@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami — Elyse Messer, senior engineer and solutions engineer; connector queen; front-end and design at heart. Now: Manifest, the deal platform I architected and built solo; MCP servers that let agents work safely on 9 SSPs; agent approval UX in Fleet and LLM classification in Lens." />
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami — Elyse Messer, senior engineer and solutions engineer; connector queen; front-end and design at heart. Now: Manifest, an AI deal platform I designed and built end to end; MCP servers that let agents work safely on 9 SSPs; agent approval UX in Fleet and LLM classification in Lens." />
 </p>
 
 ## ✨ About me
@@ -41,7 +41,7 @@
 </picture>
 </p>
 
-- ⚓ **Manifest, an AI deal platform I architected and built solo.** Traders describe a deal in plain English; an agent plans it, a person approves it, and it goes live on every SSP the brief names, then gets edited, paused or cloned the same way. It runs on MCP servers I built for 9 SSPs.
+- ⚓ **Manifest, an AI deal platform I designed and built end to end.** Traders describe a deal in plain English; an agent plans it, a person approves it, and it goes live on every SSP the brief names, then gets edited, paused or cloned the same way. It runs on MCP servers I built for 9 SSPs.
 - 🔍 **Audit engines.** Deep audits compare what was asked for with what is actually live, and catch drift before anyone else does.
 - 🪪 **Human-in-the-loop UX in Fleet.** Readable approval cards, one card per turn, live progress while a call runs, retry on failure, and the agent picking up where it left off once you approve.
 - 🧩 **Self-serve tools.** Internal tools the whole team can edit, and capability docs generated from code so they can't drift from what the system does.
@@ -55,7 +55,7 @@
     <td width="50%" valign="top">
       <h3>⚓ Manifest</h3>
       <p><code>creator</code> · <code>architect &amp; engineer</code> · private</p>
-      <p><b>An AI deal platform for programmatic advertising.</b> I designed, architected and built it on my own, starting in April 2026, with <b>1,100+ commits</b> so far. It takes a deal from a plain-English brief all the way to live: audit → agent plan → human approval → booking → read-back verification → deal sheets. It also has a chat that can book and edit deals, and deep audits that catch drift.</p>
+      <p><b>An AI deal platform for programmatic advertising.</b> I designed and built it end to end, starting in April 2026, with <b>1,100+ commits</b> so far. It takes a deal from a plain-English brief all the way to live: audit → agent plan → human approval → booking → read-back verification → deal sheets. It also has a chat that can book and edit deals, and deep audits that catch drift.</p>
       <p>Underneath are the MCP servers I built for <b>9 SSPs</b>, with full create and update on each.</p>
     </td>
     <td width="50%" valign="top">
@@ -109,7 +109,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
-  <img src="assets/experience-light.svg" width="100%" alt="Experience. 2024 to now: Elcano, Senior and Solutions Engineer, previously AI Engineer — architected and built Manifest solo, taking a plain-English brief to live deals on 9 SSPs; MCP servers that let agents work safely on every SSP; agent approval UX in Fleet and the model fallback chain in Lens; created Flag, the company design system. 2019 to 2024: Rightpoint, Senior Front-end Developer — secure React Native app for a government client; e-commerce design system in Next.js, TypeScript, AEM and MUI; immersive 3D world in React and Pano2VR driven by Contentful; SharePoint UIs and design systems; styles engineer on Unqork. 2017 to 2019: LevelEleven, Front-end Developer, UI/UX — Salesforce front ends in React, Redux and Apex; AppExchange releases and customer demos; QA, hiring and training. 2017 to 2019: Bread Factory Studios, Front-end Developer — client-facing scoping, personas and wireframes; React and Gatsby front ends. 2014 to 2017: RedCurrent, Content Manager, where I started coding — an events app covering 5 US cities; Java scrapers filling its MongoDB events database; content tooling; analytics, social and interns. 2014 to 2015: Offline Publishing, Marketing and Design Coordinator — a digital magazine that reached number 4 in the iOS Newsstand. Education: Grand Circus bootcamp, 2017; B.S. Marketing, Oakland University, 2014." />
+  <img src="assets/experience-light.svg" width="100%" alt="Experience. 2024 to now: Elcano, Senior and Solutions Engineer, previously AI Engineer — designed and built Manifest end to end, taking a plain-English brief to live deals on 9 SSPs; MCP servers that let agents work safely on every SSP; agent approval UX in Fleet and the model fallback chain in Lens; created Flag, the company design system. 2019 to 2024: Rightpoint, Senior Front-end Developer — secure React Native app for a government client; e-commerce design system in Next.js, TypeScript, AEM and MUI; immersive 3D world in React and Pano2VR driven by Contentful; SharePoint UIs and design systems; styles engineer on Unqork. 2017 to 2019: LevelEleven, Front-end Developer, UI/UX — Salesforce front ends in React, Redux and Apex; AppExchange releases and customer demos; QA, hiring and training. 2017 to 2019: Bread Factory Studios, Front-end Developer — client-facing scoping, personas and wireframes; React and Gatsby front ends. 2014 to 2017: RedCurrent, Content Manager, where I started coding — an events app covering 5 US cities; Java scrapers filling its MongoDB events database; content tooling; analytics, social and interns. 2014 to 2015: Offline Publishing, Marketing and Design Coordinator — a digital magazine that reached number 4 in the iOS Newsstand. Education: Grand Circus bootcamp, 2017; B.S. Marketing, Oakland University, 2014." />
 </picture>
 </p>
 
